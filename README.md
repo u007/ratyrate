@@ -4,7 +4,7 @@ A Ruby Gem that wrap the functionality of [jQuery Raty](https://github.com/wbote
 
 [![Gem Version](https://badge.fury.io/rb/ratyrate.svg)](http://badge.fury.io/rb/ratyrate)
 [![Build Status](https://travis-ci.org/wazery/ratyrate.svg)](http://travis-ci.org/wazery/ratyrate)
-[![Dependency Status](https://gemnasium.com/wazery/ratyrate.svg)](https://gemnasium.com/u007/ratyrate)
+[![Dependency Status](https://gemnasium.com/u007/ratyrate.svg)](https://gemnasium.com/u007/ratyrate)
 [![Code Climate](https://codeclimate.com/github/u007/ratyrate.png)](https://codeclimate.com/github/u007/ratyrate)
 [![License](http://img.shields.io/license/MIT.png?color=green)](http://opensource.org/licenses/MIT)
 [![Support jQuery Raty](http://img.shields.io/gittip/wbotelhos.svg)](https://www.gittip.com/wazery "Git Tip")
