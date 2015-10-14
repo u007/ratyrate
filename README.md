@@ -4,8 +4,8 @@ A Ruby Gem that wrap the functionality of [jQuery Raty](https://github.com/wbote
 
 [![Gem Version](https://badge.fury.io/rb/ratyrate.svg)](http://badge.fury.io/rb/ratyrate)
 [![Build Status](https://travis-ci.org/wazery/ratyrate.svg)](http://travis-ci.org/wazery/ratyrate)
-[![Dependency Status](https://gemnasium.com/wazery/ratyrate.svg)](https://gemnasium.com/wazery/ratyrate)
-[![Code Climate](https://codeclimate.com/github/wazery/ratyrate.png)](https://codeclimate.com/github/wazery/ratyrate)
+[![Dependency Status](https://gemnasium.com/wazery/ratyrate.svg)](https://gemnasium.com/u007/ratyrate)
+[![Code Climate](https://codeclimate.com/github/u007/ratyrate.png)](https://codeclimate.com/github/u007/ratyrate)
 [![License](http://img.shields.io/license/MIT.png?color=green)](http://opensource.org/licenses/MIT)
 [![Support jQuery Raty](http://img.shields.io/gittip/wbotelhos.svg)](https://www.gittip.com/wazery "Git Tip")
 [![Stories in Ready](https://badge.waffle.io/wazery/ratyrate.png?label=ready&title=Ready)](https://waffle.io/wazery/ratyrate)
@@ -211,4 +211,3 @@ If you find bugs please open a ticket at [https://github.com/wazery/ratyrate/iss
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wazery/ratyrate/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
