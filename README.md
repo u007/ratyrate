@@ -193,6 +193,14 @@ And you can use the *imdb_style_rating_for* to show a similar to IMDB rating sty
 Speed : <%= imdb_style_rating_for @car, current_user %>
 ```
 
+To rate, create a controller, and pass in the id of the rate-able model,
+and call this in the controller
+
+```
+rating = params[:rate].to_i
+TargetModel.find(id).rate(rating, current_user, 'price')
+```
+
 ## Semantic Versioning
 
 Ratyrate attempts to follow semantic versioning in the format of `x.y.z`, where:
